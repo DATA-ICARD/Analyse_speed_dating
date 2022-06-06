@@ -7,3 +7,5 @@ Librairies : Numpy, Pandas, Matplot et Seaborn
 2) Suppression des doublons iid par vague
 3)  Découverte des participant(e)s
 4)  Conclusion et matrice de corrélations 
+
+Retrouvez le sujet dans ce Github.
