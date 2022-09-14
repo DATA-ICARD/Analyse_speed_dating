@@ -1,11 +1,8 @@
-# ANALYSE EXPLORATOIRE, DESCRIPTIVE ET INFERENTIELLE DE DONNEES.
+PROJET SPEED DATING : ANALYSE EXPLORATOIRE, DESCRIPTIVE ET INFERENTIELLE DE DONNEES.
+L'objectif de ce projet est de comprendre ce qui se passe lors d'un speed dating et surtout de comprendre ce qui va influencer l'obtention d'un deuxième rendez -vous, en déterminant les principaux facteur.
 
-Analyse d'un speed dating pour déterminer s'il y a un élément permettant de déclencher un rdv
-Librairies : Numpy, Pandas, Matplot et Seaborn
+Vous trouverez le dataset sur le github avec le code.
 
-1) Découverte de la Data
-2) Suppression des doublons iid par vague
-3)  Découverte des participant(e)s
-4)  Conclusion et matrice de corrélations 
+Voici le lien vers ma vidéo de présentation : https://share.vidyard.com/watch/GGyARZqx534qhDywgDnoNV?
 
-Retrouvez le sujet dans ce Github.
+Mon adresse mail : datayannick@gmail.com
