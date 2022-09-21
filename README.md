@@ -3,7 +3,7 @@ L'objectif de ce projet est de comprendre ce qui se passe lors d'un speed dating
 
 Vous trouverez le dataset sur le github avec le code.
 
-_vidéo de présentation_ : https://share.vidyard.com/watch/GGyARZqx534qhDywgDnoNV?  
+_vidéo de présentation_ : https://share.vidyard.com/watch/GGyARZqx534qhDywgDnoNV?
 
 _Mail_ : datayannick@gmail.com  
 
